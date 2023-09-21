@@ -2,3 +2,4 @@
 
 # iServ
 @@||schulserver.de^$important
+@@||hgt.schulserver.de^$important
