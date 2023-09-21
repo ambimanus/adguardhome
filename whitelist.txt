@@ -1,0 +1,4 @@
+! Whitelist - Domains
+
+# iServ
+@@||schulserver.de^$important
